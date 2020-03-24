@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dynamic-background-color/static/css/main.27fd15f6.chunk.css",
-    "main.js": "/dynamic-background-color/static/js/main.b80b16a8.chunk.js",
-    "main.js.map": "/dynamic-background-color/static/js/main.b80b16a8.chunk.js.map",
+    "main.js": "/dynamic-background-color/static/js/main.d137487f.chunk.js",
+    "main.js.map": "/dynamic-background-color/static/js/main.d137487f.chunk.js.map",
     "runtime-main.js": "/dynamic-background-color/static/js/runtime-main.998217a9.js",
     "runtime-main.js.map": "/dynamic-background-color/static/js/runtime-main.998217a9.js.map",
     "static/js/2.c73555f1.chunk.js": "/dynamic-background-color/static/js/2.c73555f1.chunk.js",
     "static/js/2.c73555f1.chunk.js.map": "/dynamic-background-color/static/js/2.c73555f1.chunk.js.map",
     "index.html": "/dynamic-background-color/index.html",
-    "precache-manifest.d85c70b436b0dcd483de90079be84975.js": "/dynamic-background-color/precache-manifest.d85c70b436b0dcd483de90079be84975.js",
+    "precache-manifest.3d1d0a819d4bac56b0b07501ee782bc5.js": "/dynamic-background-color/precache-manifest.3d1d0a819d4bac56b0b07501ee782bc5.js",
     "service-worker.js": "/dynamic-background-color/service-worker.js",
     "static/css/main.27fd15f6.chunk.css.map": "/dynamic-background-color/static/css/main.27fd15f6.chunk.css.map",
     "static/js/2.c73555f1.chunk.js.LICENSE.txt": "/dynamic-background-color/static/js/2.c73555f1.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.998217a9.js",
     "static/js/2.c73555f1.chunk.js",
     "static/css/main.27fd15f6.chunk.css",
-    "static/js/main.b80b16a8.chunk.js"
+    "static/js/main.d137487f.chunk.js"
   ]
 }
